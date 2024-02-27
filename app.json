@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c722cdea-2e3c-46e1-b0f0-0de078167421"
+      }
+    },
+    "android": {
+      "package": "com.selle_tt.appwebview"
+    }
+  }
+}
